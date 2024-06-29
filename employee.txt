@@ -1,0 +1,6 @@
+Name: Taha Mahmoud | ID: 305070627 | Email: Ta174@gmail.com | Address: Egypt-Aswan-Al Sadat | Salary: 1000$ 
+Name: Youssef Badawy | ID:305070626 | Email: yO658@gmail.com | Address: Egypt-Alex-Fouad | Salary: 1200$ 
+Name: Akram Tawfi | ID:305070625 | Email: Ak548@gmail.com | Address: Egypt-Giza-Shehab | Salary: 1250$ 
+Name: Mazen Mohamed | ID:305070624 | Email: mA315@gmail.com | Address: Egypt-Cairo-Al Azhar | Salary: 1150$ 
+Name: Hassan Ahmed | ID:305070623 | Email: ha957@gmail.com | Address: Egypt-Fayoum-Al Ramlah | Salary: 1300$ 
+Name: Mohamed Mahmoud | ID:305070622 | Email: ma331@gmail.com | Address: Egypt-Beni Suef-Saad Bahsa | Salary: 1500$ 

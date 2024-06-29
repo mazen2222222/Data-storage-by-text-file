@@ -1,0 +1,6 @@
+cost: $5.00 | deliver time: 1 day | order number: 1
+cost: $4.00 | deliver time: 3 day | order number: 2
+cost: $10.00 | deliver time: 12 day |order number: 3
+cost: $6.00 | deliver time: 2 day |order number: 4
+cost: $3.00 | deliver time: 16 day | order number: 5
+cost: $7.00 | deliver time: 1 day |order number: 6

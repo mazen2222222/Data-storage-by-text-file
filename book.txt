@@ -1,0 +1,6 @@
+Price: $11.00 | Tybe: short story | Title: A Little Pretty Pocket-Book | Auther: John Newbery
+Price: $10.00 | Tybe: short story | Title: Crime doctor | Auther: Ernest William Hornung
+Price: $12.00 | Tybe: history | Title: History of Syria | Auther: Philip K. Hitti
+Price: $16.00 | Tybe: geographic | Title: Mountains places and water | Auther: Abu Al-Qasim Mahmoud bin Amr
+Price: $20.00 | Tybe: novel | Title: The Alchemist | Auther: Paulo Coelho
+Price: $15.00 | Tybe: novel | Title: The Thief and the Dogs | Auther: Naguib Mahfouz
